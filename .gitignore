@@ -1,0 +1,6 @@
+*.txt
+!requirements.txt
+*.pth
+*.pt
+.ipynb_checkpoints/
+__pycache__/
